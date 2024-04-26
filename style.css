@@ -1,0 +1,17 @@
+.input{
+    background-color: wheat;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.tengah {
+
+    display: flex;
+    justify-content: center;
+}
+
+.tengah2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
